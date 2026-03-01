@@ -14,3 +14,13 @@ body {
   width: 100%;
   display: block;
 }
+
+.content {
+  margin-top: 50px;
+}
+
+hr {
+  border: 0;
+  height: 15px;
+  background-color: #fa4616;
+}

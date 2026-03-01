@@ -5,7 +5,7 @@ const Event = (props) => {
         <div className="eventCard">
             <img src={props.image} alt={props.title} className='eventImage' />
             <div className="cardBody">
-                <p>{props.title}</p>
+                <h4>{props.title}</h4>
                 <p>{props.date}</p>
                 <p><a href={props.link}>See more</a></p>
             </div>

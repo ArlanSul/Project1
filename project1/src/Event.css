@@ -1,11 +1,14 @@
 .eventCard {
     max-width: 300px;
     flex: 1 1 300px;
-    border: 1px solid #000;
-    border-radius: 20q
-    px;
+    border: 5px solid #fa4616;
+    border-radius: 20px;
     margin-bottom: 50px;
     transition: 0.3s;
+
+    color: black;
+
+    background-color: azure;
 }
 
 .eventImage {
