@@ -1,19 +1,22 @@
 .eventCard {
-    width: 25%;
+    max-width: 300px;
+    flex: 1 1 300px;
     border: 1px solid #000;
+    border-radius: 20q
+    px;
     margin-bottom: 50px;
     transition: 0.3s;
 }
 
 .eventImage {
     text-align: center;
-    max-width: 70%;
+    max-width: 60%;
     padding: 50px 10px;
     height: auto;
 }
 
 .cardBody {
-    padding: 30px 20px;
+    padding: 10px 10px;
     text-align: center;
     font-size: 18px;
 }

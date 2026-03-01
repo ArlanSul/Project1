@@ -7,7 +7,7 @@ const Event = (props) => {
             <div className="cardBody">
                 <p>{props.title}</p>
                 <p>{props.date}</p>
-                <p><a href="#">See more</a></p>
+                <p><a href={props.link}>See more</a></p>
             </div>
         </div>
     )

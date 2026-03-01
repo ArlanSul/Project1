@@ -6,16 +6,16 @@ const Calendar = () => {
     
     return (
         <div className="calendar">
-            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} />
-            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} />
-            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} />
-            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} />
-            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} />
-            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} />
-            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} />
-            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} />
-            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} />
-            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} />
+            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} link='https://www.sasehacks.com/' />
+            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} link='https://www.sasehacks.com/' />
+            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} link='https://www.sasehacks.com/' />
+            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} link='https://www.sasehacks.com/' />
+            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} link='https://www.sasehacks.com/' />
+            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} link='https://www.sasehacks.com/' />
+            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} link='https://www.sasehacks.com/' />
+            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} link='https://www.sasehacks.com/' />
+            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} link='https://www.sasehacks.com/' />
+            <Event title="SASEHacks 2026" date="March 7, 2026" image={sasehack} link='https://www.sasehacks.com/' />
         </div>
     )
 }
