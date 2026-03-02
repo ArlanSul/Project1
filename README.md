@@ -36,7 +36,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://imgur.com/a/8Ry5lB3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![demo video](./screenshots/walktrhough.gif)
+![walktrhough](https://github.com/user-attachments/assets/8855b263-ccae-4050-8249-a2e193500c72)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) 
