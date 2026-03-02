@@ -8,12 +8,13 @@
 
     color: black;
 
-    background-color: azure;
+    background-color: white;
 }
 
 .eventImage {
     text-align: center;
     max-width: 60%;
+    max-height: 120px;
     padding: 50px 10px;
     height: auto;
 }
